@@ -1,0 +1,2 @@
+# CUSTOMER-PROFILING-AND-CONVERSION-OPTIMIZATION-IN-FREIGHT-CRM-A-DATA-DRIVEN-ANALYSIS
+A machine learning analysis of Customer Profiling and Conversion Optimization in Freight CRM using a company as a case study in the research. The research aims to enhance customer segmentation and improve conversion rates, providing actionable insights for optimizing freight customer relationship management (CRM) strategies.
